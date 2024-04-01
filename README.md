@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zdalvabaird
 - 👀 I’m interested in statistical analysis in python
 - 🌱 I’m currently learning how to analyze location data
-- 💞️ I’m looking to collaborate on whatever
+- 💞️ I’m looking to collaborate on 🤷‍♂️
 - 📫 How to reach me: zdalvabaird@gmail.com
 
 <!---
